@@ -36,3 +36,8 @@
 //     const rta = person +  limit;
 //     console.log(rta);
 //   });
+
+( ()=>{
+    let value = 1 + '1';
+    let val: (string | null)= null;
+} )();
